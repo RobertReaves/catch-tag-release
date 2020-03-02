@@ -2659,3 +2659,4 @@ continue-3
 continue-3conflictx
 continue-3
 continue-3conflict-more-for-pr
+test pr with new commits
