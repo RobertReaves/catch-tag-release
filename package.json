@@ -28,7 +28,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@lk/web-analytics-slice": "6.0.0",
+    "@lk/web-analytics-slice": "3.8.0-smart-timeline-display.0",
     "@lk/web-board-slice": "14.19.1",
     "@lk/web-card-slice": "9.0.0",
     "@lk/web-common-ui": "12.8.0",
