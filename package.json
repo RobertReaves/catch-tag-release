@@ -29,7 +29,7 @@
   "license": "ISC",
   "devDependencies": {
     "@lk/web-analytics-slice": "9.42.0",
-    "@lk/web-board-slice": "36.11.0",
+    "@lk/web-board-slice": "1.3.0",
     "@lk/web-card-slice": "20.1.0",
     "@lk/web-common-ui": "29.1.0",
     "@lk/web-core-board": "^5.2.0",
